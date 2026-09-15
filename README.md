@@ -1,5 +1,6 @@
 # Dogs, Oh My!
 A website that allows the user to select a dog breed whose slideshow they'd like to view.  
+Hosted using Azure at [this address](https://agreeable-island-082fd9010.5.azurestaticapps.net/)
   
 Author: Bethany Feddes  
 Project: Lions and Tigers and Bears, Oh My!  
