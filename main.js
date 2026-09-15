@@ -46,7 +46,7 @@ function createSlideshow(images) {
     } else {
         document.getElementById("slideshow").innerHTML = `
         <div class="slide" style="background-image: url('${images[0]}');"></div>
-        <div class="slide"</div>
+        <div class="slide"></div>
         `
     }
    
